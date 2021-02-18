@@ -1,0 +1,17 @@
+name: aisle-sense
+version: 1.0.1
+summary: Wesense
+description: |
+  Wesense is the fastest growing CCTV Analytics platform. Now, understand your customers better by integrating our retail analytics solutions and get more from your retail store by converting it into a smarter one.
+confinement: strict
+base: core18
+
+parts:
+  aisle-sense:
+    plugin: dump
+    source: .
+    source-type: local
+
+apps:
+  aisle-sense:
+    command: run
