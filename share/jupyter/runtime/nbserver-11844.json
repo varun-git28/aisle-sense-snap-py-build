@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/home/vinod/Documents/Learning/ML/TensorFlow-Machine-Learning-Projects/Chapter01",
+  "password": false,
+  "pid": 11844,
+  "port": 8888,
+  "secure": false,
+  "token": "29fc011494fd50fdd5ffb7d916ddc87eba2167e07bbece73",
+  "url": "http://localhost:8888/"
+}

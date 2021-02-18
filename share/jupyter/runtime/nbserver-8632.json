@@ -1,0 +1,11 @@
+{
+  "base_url": "/",
+  "hostname": "localhost",
+  "notebook_dir": "/home/vinod/Downloads",
+  "password": false,
+  "pid": 8632,
+  "port": 8888,
+  "secure": false,
+  "token": "d71cce46fc42060aee352f4ceaa608a8ffef7b4f3172c0bb",
+  "url": "http://localhost:8888/"
+}

@@ -1,0 +1,38 @@
+{
+  "language": "python",
+  "argv": [
+    "/usr/bin/python3",
+    "-m",
+    "ipykernel_launcher",
+    "-f",
+    "{connection_file}"
+  ],
+  "display_name": "Python 3.5.2 64-bit",
+  "env": {},
+  "metadata": {
+    "interpreter": {
+      "architecture": 3,
+      "path": "/usr/bin/python3",
+      "version": {
+        "options": {
+          "loose": false,
+          "includePrerelease": false
+        },
+        "loose": false,
+        "raw": "3.5.2-final",
+        "major": 3,
+        "minor": 5,
+        "patch": 2,
+        "prerelease": [
+          "final"
+        ],
+        "build": [],
+        "version": "3.5.2-final"
+      },
+      "sysPrefix": "/usr",
+      "fileHash": "ae838373625a2944461a90075448d1b50ebbe6b8ce6d0f74d2920c22b54f73f67280f98ae24534394aa188b548723e4489f7bc3f66223c4ed26abd0e7de708c3",
+      "type": "Unknown",
+      "displayName": "Python 3.5.2 64-bit"
+    }
+  }
+}
