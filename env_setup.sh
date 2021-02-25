@@ -105,5 +105,4 @@ if [ ! -z "$python_version" ]; then
 fi
 
 echo "[env_setup.sh] Wesense environment initialized"
-# python3 aisle-sense.py $MAC_ID
 ./aisle-sense $MAC_ID
