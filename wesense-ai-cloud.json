@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "wesense-ai-cloud",
+  "private_key_id": "db925e957d97135e0a379850f3ba8c339fe714c7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQC7XeLj7QaHricC\n4THByHcnDQ22ETTcs14aBSYMRtrxbg+UsyGh+L0xfaxk/UwDmbXbPe3LFVHDyuOq\nBGMuYBHC/G2gSwlTeYdoKHdGf8SgvjP+Oao9ItzoxF7UnfCBNz7TOR9+PzoT3uDi\nbUGZF2QuXL+rWJvPOBSmpLHgOmrlLb+AntviPl+2GdeJK9OgQydYtM+nL/tyoSEF\nWMYlSS4rmZNVw4rc9DoepOolxRIdAUiB1YQYb4ix59UX+5i6dSaimMgMUqmxRf6g\nU6YKenm0ysoPC3smIajSeka8Tf6y+i0Oei+3fVuEfa92J7qPEayD6EaIqdnTwa0X\nVEymSY7pAgMBAAECggEABgo1oFCRmXHYHNgGzzb/vUzmzF/TXwpyrf7MvlBR6j64\nppvcKZEfwy7IjgRazRJpSfkd92IXbcr2ahKEYngzFmCmBYjpsuzL3EQSrT186Iwd\nF7TC67/aFHBRGMRDHp0565vvq5WM8RtKD06DkvRttK9ld9fuROCrTMBqIf7sF3lj\nEFa87F6QLag7eqw+W+IcUAYuRglcJz/W2c3IJhz+uBRSCvVpSbcvi8HhDliIxAZQ\nIyR7FbOh/+j9UmZlLfIFMgWV+ThHcWzzLjuzxO0HX8JRpK5NBb6p1/7P6lk81qeI\nkgVCNBMMo09UqukhH7t/xV3XwVWAecm3fNm7NfNq0QKBgQDbewlQPtVynWJsqDFE\nvXTbgc2g0HZUI/Ucj6t9k/ixcgxf+ZLfLIlQ57i7VB90Z2AvuwLw5PFQ4y2joYG3\nNyVqTkF+JKljnAZfbz0CI7WGuxU0Z33ZGD8r9ACkI4jQaGbVSNPAEQdSmMsOMIqb\nM01s/RC+kNxN6pH3WqOeBUH8+QKBgQDaiu6vLOavqe0/qSKK3yybtWYMeV99lEIg\npWd93huJ0WdB9VUKAm1FxRJI/vx4hDHpwCDfbd+mTMhAeMRsy0f2nDHYhcvCS05c\nuDLzIpwECqKtgtf3FYqvUdipzWr85Q99sZX9VzYiUv07WT0WC21NxBzvanrxSP+R\nzNc1ciJNcQKBgQCpBZloiNsMBxQTJXu7ukNSACaBH8jgh0huFF42uUueK3xINQTc\nhYnCGpFzAhevJyU13MkpBsaoSiuNhgVFOVzA/z8Ei+s+4Jsvx5SuHx3eghiUYNbT\n5w5PJPuRbCQiiyQWQJ2BnhuLiktlxBAZ8WpA8qqAd0KRZoG+gbjbKqVk0QKBgQCe\nNX3daxAFk2qhb3wGNNJCVuvtk+BBNRc6MwPc5vHgr6uk4EoT2PXqUGSQW6fCR1Eq\n+1/Q3+XMqkE+Cy+H4xHRwfmD2jhMC+BK1z5rLV7svhZOri5SPVIM4Z+MLZ2KPvkb\n8Xe3027pIlMYp93FG7ihV5vq5pbiHgqGLliN5HZYwQKBgCXQ+JBkmzB+ZfC+t1DV\nmaXwLluVpttyi9LKU4vnplM5C5ToLtPeUMuQndTtMAWEtJ9MiRMDiHmKY3nmfYFu\nK+JGM7MHrdLNaFbBLfrcrexGoV4Jr1UwSDjxgMLzewbQgr+FTClzGr4i2Gh4E0XE\nFrY7PgLiidOO+wpcVmnZ2KNw\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-7xhn1@wesense-ai-cloud.iam.gserviceaccount.com",
+  "client_id": "108127459984087127879",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-7xhn1%40wesense-ai-cloud.iam.gserviceaccount.com"
+}
